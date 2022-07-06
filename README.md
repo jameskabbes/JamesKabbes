@@ -11,7 +11,7 @@
   <img align="left" alt="Medium" height="30px" src="static/medium.svg" />
 </a>
 <a href="https://www.dropbox.com/s/uduux1u6caizqp7/James%20Kabbes%20Resume.pdf?dl=0">
-  <img align="left" alt="Abhishek's LinkedIN" height="30px" src="static/file-alt.svg" />
+  <img align="left" alt="Resume" height="30px" src="static/file-alt.svg" />
 </a>
 <a href="https://pypi.org/user/kabbes">
   <img align="left" alt="PyPI" height="30px" src="static/code.svg" />
