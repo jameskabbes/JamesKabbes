@@ -1,7 +1,7 @@
 # Hi, I'm James
 *Data Scientist at the Ameren Innovation Center*
 
-<a href="https://jameskabbes.github.io">
+<a href="https://jameskabbes.com">
   <img align="left" alt="Personal Website" height="30px" src="static/portrait.svg" />
 </a>
 <a href="https://www.linkedin.com/in/jameskabbes">
