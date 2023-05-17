@@ -1,5 +1,5 @@
 # Hi, I'm James
-*Site Manager at the AGCO Acceleration Center*
+*Senior Software Engineer at John Deere*
 
 <a href="https://jameskabbes.com">
   <img align="left" alt="Personal Website" height="30px" src="static/portrait.svg" />
